@@ -3,7 +3,7 @@ import { Pagination, AppBar, Container, Box } from '@mui/material';
 import { Search } from './Search';
 import { Results } from './Results';
 import { useFetch } from './useFetch';
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './style.css';
 
 type Data = {
@@ -21,20 +21,22 @@ export const Main = () => {
     // console.log(data);
 
     return (
-        <div>
+        <>
             <AppBar position="static" sx={{ backgroundColor: '#1F0439', height: 70, }}>
                 <Container maxWidth="xl" 
                     sx={{ display: 'flex', flexDirection: 'row', }}
                 >
-                    <Box component='span' className='logo'
+                    {/* <Box className='logo'
                         sx={{
                             // border: '1px solid white',
                             display: 'flex', justifyContent: 'center', alignItems: 'center',
                             width: 50, height: 50, marginRight: 2.5, marginTop: 1.2,
                         }}
                     >
-                        <img src={logo} className="App-logo" alt="logo" />
-                    </Box>
+                        <img src={logo} className="App-logo" alt="logo" 
+                            style={{ width: 50, height: 50, }}
+                        />
+                    </Box> */}
                     <Box component='span' className='main-title'
                         sx={{
                             // border: '1px solid white',
@@ -60,6 +62,6 @@ export const Main = () => {
                     }}
                 />
             }
-        </div>
+        </>
     );
 };

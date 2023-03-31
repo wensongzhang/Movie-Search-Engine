@@ -41,8 +41,14 @@
       "last 1 safari version"
     ]
   },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
   "engines": {
-    "node": "12.11.1"
+    "node": "^12.11.1"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.57.0",
