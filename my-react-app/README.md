@@ -42,7 +42,7 @@ I spent about 15 hours on this project in total.
 
 ## What needs to be improved
 1. The movie detail page is not responsive perfectly to some screen(I use 13 inch Mac,
-styles may different on windows or other size screens, specially on the samll size screen,
+styles may different on windows or other size screens, specially on the small size screen,
 the scroll bar will be displayed).
 2. The design, layout, and color of both the main page and warning message require further consideration.
 3. If the picture of the movie is not found, it would lead to an unsatisfactory user experience.
