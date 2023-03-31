@@ -38,7 +38,7 @@ const useStyles = makeStyles({
         bottom: '10% !important', 
         left: '10% !important', 
         right: '10% !important',
-        overflow:'scroll',
+        overflow:'auto',
     },
     outter: {
         backgroundColor: '#D2CDD7',
