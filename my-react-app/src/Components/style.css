@@ -1,0 +1,10 @@
+.main-title {
+    background: linear-gradient(to right, #F6EDFE, #F6EDFE) no-repeat right bottom;
+    background-size: 0% 5%;
+    transition: background-size 1300ms;
+}
+
+.main-title:hover {
+    background-position-x: left;
+    background-size: 100% 5%;
+}
