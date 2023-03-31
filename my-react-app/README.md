@@ -2,8 +2,8 @@
 
 https://tea-app.herokuapp.com/
 
-![alt text](https://drive.google.com/uc?export=view&id=1PVXZstcHb2P9PQB3zFopoj7xISBeKVBP)
-![alt text](https://drive.google.com/uc?export=view&id=1PVXZstcHb2P9PQB3zFopoj7xISBeKVBP)
+![alt text](https://drive.google.com/uc?export=view&id=1zHnSfOwByLFbnDggI-nCy03T7D7VaUP3)
+![alt text](https://drive.google.com/uc?export=view&id=1HCvLuEibi_yapXsPKYA6X7fOHqox6VkB)
 ## Available Scripts
 In the project directory, you can run:
 ### `npm run dev`
