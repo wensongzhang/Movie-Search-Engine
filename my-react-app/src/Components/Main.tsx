@@ -16,7 +16,7 @@ export const Main = () => {
 
     const [query, setQuery] = React.useState('');
     const [page, setPage] = React.useState(1);
-    const { data, loading } = useFetch(`http://www.omdbapi.com/?apikey=211cea13&s=${query}&page=${page}`);
+    const { data, loading } = useFetch(`https://www.omdbapi.com/?apikey=211cea13&s=${query}&page=${page}`);
 
     // console.log(data);
 
