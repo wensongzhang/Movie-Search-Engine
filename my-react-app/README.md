@@ -2,12 +2,11 @@
 
 https://tea-app.herokuapp.com/
 
+![alt text](https://drive.google.com/uc?export=view&id=1PVXZstcHb2P9PQB3zFopoj7xISBeKVBP)
+![alt text](https://drive.google.com/uc?export=view&id=1PVXZstcHb2P9PQB3zFopoj7xISBeKVBP)
 ## Available Scripts
-
 In the project directory, you can run:
-
 ### `npm run dev`
-
 Or
 ### `npm run build`
 ### `npm start`
@@ -43,5 +42,7 @@ I spent about 15 hours on this project in total.
 
 ## What needs to be improved
 1. The movie detail page is not responsive perfectly to some screen(I use 13 inch Mac,
-styles may different on windows or other size screens.).
+styles may different on windows or other size screens, specially on the xs size screen,
+the scroll bar will be displayed).
 2. Main page and warning message looks not beautiful enough.
+3. If the picture of the movie is not found, it would looks ugly.
