@@ -44,5 +44,6 @@ I spent about 15 hours on this project in total.
 1. The movie detail page is not responsive perfectly to some screen(I use 13 inch Mac,
 styles may different on windows or other size screens, specially on the samll size screen,
 the scroll bar will be displayed).
-2. Main page and warning message looks not beautiful enough.
+2. The styling of Main page and warning message do not meet my expectations and 
+need more design layout considerations.
 3. If the picture of the movie is not found, it would lead to an unsatisfactory user experience.
