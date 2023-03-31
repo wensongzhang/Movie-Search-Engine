@@ -41,9 +41,9 @@ export const Results = ({ results, loading }: Props) => {
         setId('');
     };
 
-    if (loading) {
-        return <Box className={style.warningText}>Loading...</Box>;
-    }
+    // if (loading) {
+    //     return <Box className={style.warningText}>Loading...</Box>;
+    // }
  
     if(results.Response === "False" && results.Error === "Too many results.") {
         return <Box className={style.warningText}><Box className={style.innerWarningText}> Too many results. Please refine your search. </Box></Box>;
