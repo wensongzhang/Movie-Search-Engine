@@ -1,4 +1,4 @@
-# Text-Em-All React Coding Challenge Movie Search Engine
+# Text-Em-All React Coding Challenge - Movie Search Engine - Wensong Zhang
 
 https://tea-app.herokuapp.com/
 
