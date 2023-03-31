@@ -106,7 +106,7 @@ const useStyles = makeStyles({
 });
 
 export const Details = ({ id, open, handleClose }: Props) => {
-    const { data, loading } = useFetch(`http://www.omdbapi.com/?apikey=211cea13&i=${id}`);
+    const { data, loading } = useFetch(`https://www.omdbapi.com/?apikey=211cea13&i=${id}`);
     const style = useStyles();
 
     //A typescript function to switch the format of the date from 11 Jan 2021 to 01/11/2021
